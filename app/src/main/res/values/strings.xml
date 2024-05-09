@@ -1,0 +1,21 @@
+<resources>
+    <string name="appName">Template app</string>
+
+    <string name="settingsLanguageEnglish">English</string>
+    <string name="settingsLanguageRussian">Русский</string>
+    <string name="settingsLanguageUkrainian">Українська</string>
+
+    <string name="settingsLabelLanguage">Мова</string>
+    <string name="settingsLabelDarkTheme">Темна тема</string>
+    <string name="refAccountsDialogTitle">Обліковий запис</string>
+    <string name="commonWarning">Попередження</string>
+    <string name="refAccountsQuestionDelete">Видалити обліковий запис?</string>
+    <string name="refAccountsDialogNameLabel">Найменування</string>
+    <string name="menuRefAccounts">Облікові записи</string>
+    <string name="menuSettings">Налаштування</string>
+    <string name="menuAbout">Про додаток</string>
+    <string name="settingsLabelPassword">Пароль</string>
+    <string name="refAccountsDialogLoginLabel">Логін</string>
+    <string name="refAccountsDialogNew">новий</string>
+
+</resources>

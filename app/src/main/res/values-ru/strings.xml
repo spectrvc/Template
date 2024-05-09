@@ -1,0 +1,21 @@
+<resources>
+    <string name="appName">Template app</string>
+
+    <string name="settingsLanguageEnglish">English</string>
+    <string name="settingsLanguageRussian">Русский</string>
+    <string name="settingsLanguageUkrainian">Українська</string>
+
+    <string name="settingsLabelLanguage">Язык</string>
+    <string name="settingsLabelDarkTheme">Темная тема</string>
+    <string name="refAccountsDialogTitle">Учетная запись</string>
+    <string name="commonWarning">Предупреждение</string>
+    <string name="refAccountsQuestionDelete">Удалить учетную запись?</string>
+    <string name="refAccountsDialogNameLabel">Наименование</string>
+    <string name="menuRefAccounts">Учетные записи</string>
+    <string name="menuSettings">Настройки</string>
+    <string name="menuAbout">О программе</string>
+    <string name="settingsLabelPassword">Пароль</string>
+    <string name="refAccountsDialogLoginLabel">Логин</string>
+    <string name="refAccountsDialogNew">новый</string>
+
+</resources>

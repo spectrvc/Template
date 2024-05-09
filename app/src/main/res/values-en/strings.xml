@@ -1,0 +1,21 @@
+<resources>
+    <string name="appName">Template app</string>
+
+    <string name="settingsLanguageEnglish">English</string>
+    <string name="settingsLanguageRussian">Русский</string>
+    <string name="settingsLanguageUkrainian">Українська</string>
+
+    <string name="settingsLabelLanguage">Language</string>
+    <string name="settingsLabelDarkTheme">Dark theme</string>
+    <string name="refAccountsDialogTitle">Account</string>
+    <string name="commonWarning">Warning</string>
+    <string name="refAccountsQuestionDelete">Delete account?</string>
+    <string name="refAccountsDialogNameLabel">Name</string>
+    <string name="menuRefAccounts">Accounts</string>
+    <string name="menuSettings">Settings</string>
+    <string name="menuAbout">About</string>
+    <string name="settingsLabelPassword">Password</string>
+    <string name="refAccountsDialogLoginLabel">Login</string>
+    <string name="refAccountsDialogNew">new</string>
+
+</resources>
