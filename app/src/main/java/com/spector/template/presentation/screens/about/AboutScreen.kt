@@ -32,12 +32,15 @@ fun AboutScreen() {
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
+            Spacer(
+                modifier = Modifier.height(10.dp)
+            )
             StandardImage(
                 imageId = R.drawable.template,
                 size = 96.dp,
             )
             Spacer(
-                modifier = Modifier.height(20.dp)
+                modifier = Modifier.height(10.dp)
             )
             Text(
                 text = stringResource(R.string.appName),
